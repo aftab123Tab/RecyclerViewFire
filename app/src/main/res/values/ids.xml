@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="usernameET" type="id" />
+    <item name="userstatusET" type="id" />
+    <item name="sr_username" type="id" />
+    <item name="sr_usernameET" type="id" />
+    <item name="sr_userstatusET" type="id" />
+    <item name="sr_userstatus" type="id" />
+</resources>
